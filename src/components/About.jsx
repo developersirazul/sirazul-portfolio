@@ -1,6 +1,6 @@
 import React from 'react'
 import AboutImg from '../assets/IMG-20250304-WA0001.jpg'
-import { FaChevronRight } from 'react-icons/fa'
+// import { FaChevronRight } from 'react-icons/fa'
 
 const About = () => {
   return (
