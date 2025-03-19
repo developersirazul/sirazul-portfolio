@@ -11,7 +11,7 @@ const Project = () => {
           // description:
           //   "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea accusantium impedit facere. Sequi, deserunt recusandae.",
           // techStack: ["Next.js", "MongoDB", "Stripe", "Tailwind CSS"],
-          // link: "https://pagefly-by-sirajul.myshopify.com/",
+          link: "https://pagefly-by-sirajul.myshopify.com/",
           Password:1234 ,
           image: Digital, // Replace with your project screenshot
         },
