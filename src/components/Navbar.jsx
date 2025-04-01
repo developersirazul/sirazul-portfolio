@@ -14,8 +14,10 @@ const Navbar = () => {
       <div className='flex items-center justify-between max-w-7xl mx-auto px-4 md:px-0'>
         {/* logo section */}
         <div>
-            <a href="/"><h2>sirazul</h2></a>
+            {/* <a href="/"><h2>sirazul</h2></a> */}
+            <div className='text-2xl font-bold hidden md:inline text-white'>SIRAZUL</div>
         </div>
+        
         {/* Menu section  */}
         <nav className='hidden md:block'>
            <ul className='flex gap-7 text-xl items-center font-semibold text-white'>
