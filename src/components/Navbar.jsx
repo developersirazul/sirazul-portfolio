@@ -15,7 +15,7 @@ const Navbar = () => {
         {/* logo section */}
         <div>
             {/* <a href="/"><h2>sirazul</h2></a> */}
-            <div className='text-2xl font-bold hidden md:inline text-white'>SIRAZUL</div>
+            <div className='text-2xl font-bold  text-white'>SIRAZUL</div>
         </div>
         
         {/* Menu section  */}
